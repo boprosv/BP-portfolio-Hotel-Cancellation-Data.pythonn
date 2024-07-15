@@ -9,12 +9,16 @@ To start, I downloaded all the needed libraries for what I wanted to do, the dat
 
 ![Screenshot 2024-07-15 125518](https://github.com/user-attachments/assets/9b2788ee-70ff-464f-a561-4129408df434)
 
-Then executed some Exploratory Data Analysis:
+Then executed some Exploratory Data Analysis (Not showing all of them):
 
 Price Average:
 
 ![Screenshot 2024-04-08 112518](https://github.com/user-attachments/assets/160ec2cf-1e91-4c7b-803f-80d752a2b14e)
 
 Price/Lead time Ratio:
+
+![Screenshot 2024-04-08 112937](https://github.com/user-attachments/assets/635ef72a-f14f-44e3-b37e-fe64aabea8d2)
+
+Cancelled/Not cancelled bookings:
 
 
