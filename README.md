@@ -21,4 +21,8 @@ Price/Lead time Ratio:
 
 Cancelled/Not cancelled bookings:
 
+![Screenshot 2024-04-08 114001](https://github.com/user-attachments/assets/e5eeb69a-620a-4ab9-a315-d273f4aeac40)
+
+Here we can see that cancelled bookings reach 30% of all bookings!
+
 
