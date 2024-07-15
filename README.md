@@ -23,6 +23,10 @@ Cancelled/Not cancelled bookings:
 
 ![Screenshot 2024-04-08 114001](https://github.com/user-attachments/assets/e5eeb69a-620a-4ab9-a315-d273f4aeac40)
 
+And:
+
+![Screenshot 2024-07-15 131156](https://github.com/user-attachments/assets/01de5657-765e-4231-a513-03f1cd5b6b30)
+
 
 
 
