@@ -34,3 +34,5 @@ Here we can see that almost 30% of bookings were cancelled, so the Hotel managem
 
 ![Screenshot 2024-07-15 132021](https://github.com/user-attachments/assets/6fbf7d24-d14c-4f90-ab2c-b9ef4c040f5e)
 
+![Screenshot 2024-07-15 132351](https://github.com/user-attachments/assets/e0a55ba2-010b-4bde-ae17-0ddfbbde6398)
+![Screenshot 2024-07-15 132433](https://github.com/user-attachments/assets/eaf72805-3911-400b-bb28-2265d274017a)
