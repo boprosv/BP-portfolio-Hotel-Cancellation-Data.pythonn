@@ -39,3 +39,5 @@ Here we can see that almost 30% of bookings were cancelled, so the Hotel managem
 Pretty good prformance! Now we have a list of all the porobabylities of cancelled bookings!
 
 ![Screenshot 2024-07-15 133646](https://github.com/user-attachments/assets/0b8a3e9e-a7e3-4aa2-bc0d-21c25bd4ec5c)
+
+Now wanted to run CatBoost and see wich model performs better:
