@@ -10,3 +10,9 @@ To start, I downloaded all the needed libraries for what I wanted to do, the dat
 ![Screenshot 2024-07-15 125518](https://github.com/user-attachments/assets/9b2788ee-70ff-464f-a561-4129408df434)
 
 Then executed some Exploratory Data Analysis:
+
+Price Average;
+
+![Screenshot 2024-04-08 112518](https://github.com/user-attachments/assets/160ec2cf-1e91-4c7b-803f-80d752a2b14e)
+
+
