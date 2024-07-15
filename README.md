@@ -36,3 +36,6 @@ Here we can see that almost 30% of bookings were cancelled, so the Hotel managem
 
 ![Screenshot 2024-07-15 132021](https://github.com/user-attachments/assets/6fbf7d24-d14c-4f90-ab2c-b9ef4c040f5e)
 
+Pretty good prformance! Now we have a list of all the porobabylities of cancelled bookings!
+
+
