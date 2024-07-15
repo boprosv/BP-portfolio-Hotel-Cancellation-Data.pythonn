@@ -49,3 +49,6 @@ XGBoost slightly outperforms CatBoost in this setting.
 
 With the list of cancellation probabilities, the hotel management can decide where the marketing department should concentrate their efforts and with which lost customers they have a better chance of reengaging. Additionally, the budgeting department will have a better idea of the numbers to calculate in case applied discounts and offers become the strategy for bringing customers back.
 Now we can run the hole Dataset through our model and add cancellation probability at the end as the column:
+
+![Screenshot 2024-07-15 140555](https://github.com/user-attachments/assets/4bc2a061-b95d-4c82-a9ae-55d35fb040b3)
+![Screenshot 2024-07-15 140633](https://github.com/user-attachments/assets/809d7c69-8e99-47d0-aeba-91b7dcb7b95d)
