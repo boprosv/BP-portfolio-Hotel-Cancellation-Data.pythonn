@@ -11,8 +11,10 @@ To start, I downloaded all the needed libraries for what I wanted to do, the dat
 
 Then executed some Exploratory Data Analysis:
 
-Price Average;
+Price Average:
 
 ![Screenshot 2024-04-08 112518](https://github.com/user-attachments/assets/160ec2cf-1e91-4c7b-803f-80d752a2b14e)
+
+Price/Lead time Ratio:
 
 
