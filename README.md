@@ -27,6 +27,6 @@ And:
 
 ![Screenshot 2024-07-15 131156](https://github.com/user-attachments/assets/01de5657-765e-4231-a513-03f1cd5b6b30)
 
-
+Here we can see that almost 30% of bookings were cancelled, so the Hotel management has to work on a strategy of keeping the clients (One of the top problems in the Hotel business!), and reduce that amount to earn more business!In two years 11889 bookings were cancelled at an average price of 100$ is 1,188,900$ of lost revenue. And that's what we are going to do with our next step. For this problem, we are going to implement one of the top tools in the business: XGBoost. The 'Golden Egg' here is the predicted probabilities for the cancellation list!
 
 
