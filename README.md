@@ -77,4 +77,5 @@ xgb_model = xgb.train(
     verbose_eval=True            # Print evaluation results
 )
 
+![Screenshot 2024-07-15 132021](https://github.com/user-attachments/assets/6fbf7d24-d14c-4f90-ab2c-b9ef4c040f5e)
 
