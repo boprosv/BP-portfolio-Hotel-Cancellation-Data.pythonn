@@ -1,7 +1,7 @@
 # BP-portfolio-Hotel-Cancellation-Data.python
 
 In this project, I used a hotel cancellation data CSV file with 36K bookings from Kaggle (https://www.kaggle.com/datasets/youssefaboelwafa/hotel-booking-cancellation-prediction/data). I have attached a raw copy in .ipynb format if you would like to run the code.
-
+Business Problem: 30% of Reservations have been cancelled.
 The Project:
 
 To start, I downloaded all the necessary libraries for my analysis. The dataset was clean, and not much needed to be done to prepare the data, just some checkups.
@@ -52,6 +52,6 @@ With the list of cancellation probabilities, the hotel management can decide whe
 ![Screenshot 2024-07-15 140555](https://github.com/user-attachments/assets/4bc2a061-b95d-4c82-a9ae-55d35fb040b3)
 ![Screenshot 2024-07-15 140633](https://github.com/user-attachments/assets/809d7c69-8e99-47d0-aeba-91b7dcb7b95d)
 
-The next step would be building an app, where, upon a reservation being made and the cancellation probability number updated, the appropriate department can receive the necessary information and take the required actions in line with set policies.
+The next step would be to build an app where, upon a reservation being made and the cancellation probability number updated, the appropriate department can receive the necessary information and take required actions (e.g., promotions, discounts) in line with established policies.
 
 
