@@ -52,6 +52,6 @@ With the list of cancellation probabilities, the hotel management can decide whe
 ![Screenshot 2024-07-15 140555](https://github.com/user-attachments/assets/4bc2a061-b95d-4c82-a9ae-55d35fb040b3)
 ![Screenshot 2024-07-15 140633](https://github.com/user-attachments/assets/809d7c69-8e99-47d0-aeba-91b7dcb7b95d)
 
-The next step would be building an app, where upon reservation and data entry and updated cancellation probability number, the front office can recive needed information and take appropriate actions in line with set policies.
+The next step would be building an app, where, upon a reservation being made and the cancellation probability number updated, the appropriate department can receive the necessary information and take the required actions in line with set policies.
 
 
